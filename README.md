@@ -3,7 +3,7 @@ EAD - Projeto da disciplina Introdução à análise de dados
 
 Equipe:
 - Elisabeth Morais @bethmorais
-- Luísa Macêdo @luisdrm
+- Luísa Macêdo @luisadrm
 
 1. Coletar dados
 2. Realizar pré-processamento
