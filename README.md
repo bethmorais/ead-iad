@@ -19,46 +19,7 @@ Equipe:
 
 1.3. Apresentar estatísticas descritivas dos dados com visualizações
 
-2. Opções para base de dados:
+2. Fonte de dados:
 
-2.1. Contratação de Profissionais na área de Tecnologia 
-
-- Fonte de dados:
-
-MTE - Ministério do Trabalho e Emprego
-
-http://bi.mte.gov.br/bgcaged/login.php
-
-Usuario: basico
-
-Senha: 12345678
-
-- Colunas (agrupamentos):
-
-Saldo Mov (Admitido, desligado)
-
-Salario Mensal
-
-Idade
-
-Grau de instrução
-
-Area CNAE 2.0: Consultoria TI, Suporte Tecnico
-
-- Linhas:
-
-UF+Sexo
-
-- Questões para análise:
-
-Qual UF mais contrata?
-
-Qual UF mais demite?
-
-Média salarial por sexo?
-
-Qual Faixa etária tem melhores salários?
-
-Qual faixa etário mais demite?
-
+https://www.kaggle.com/wenruliu/adult-income-dataset
 
