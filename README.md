@@ -36,9 +36,9 @@
   </ol>
 
   <h2>Fonte de dados:</h2>
-  <a href="https://www.kaggle.com/wenruliu/adult-income-dataset">Adult income</a>
+  <a href="https://www.kaggle.com/wenruliu/adult-income-dataset" target="_blank">Adult income</a>
 
   <h2>Google Colab</h2>
-  <a href="https://colab.research.google.com/drive/1Vt1XAuam-CymAbKYAmi5uUiRvjJiMWrS">Notebook ead-iad-projeto</a>
+  <a href="https://colab.research.google.com/drive/1Vt1XAuam-CymAbKYAmi5uUiRvjJiMWrS">Notebook ead-iad-projeto target="_blank"</a>
 </body>
 </html>
