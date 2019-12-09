@@ -1,25 +1,43 @@
 # ead-iad
-EAD - Projeto da disciplina Introdução à análise de dados
+<html>
+<head>
+</head>
+<body>
+  <h2>Curso</h2>
+  <ul>
+    <li>EAD - Engenharia e Análise de Dados</li>
+  </ul>
+  <h2>Disciplina</h2>
+  <ul>
+    <li>Introdução à análise de dados</li>
+  </ul>
+  <h2>Professor</h2>
+  <ul>
+    <li>Luciano Barbosa</li>
+  </ul>
 
-Professor: Luciano Barbosa
-Equipe:
-- Elisabeth Morais @bethmorais
-- Luísa Macêdo @luisadrm
+  <h2>Equipe:</h2>
+  <ul>
+    <li>Elisabeth Morais @bethmorais</li>
+    <li>Luísa Macêdo @luisadrm</li>
+  </ul>
 
-1. Especificação do projeto:
+  <h2>Especificação do Projeto:</h2>
+  <ol>
+    <li>Coletar dados</li>
+    <li>Realizar pré-processamento</li>
+    <ul>
+      <li>Definição de tipos</li>
+      <li>Tratamento de dados ausentes</li>
+      <li>Normalização e discretização</li>
+      <li>Limpeza de dados (univariado e bivariado)</li>
+    </ul>
+    <li>Apresentar estatísticas descritivas dos dados com visualizações</li>
+  </ol>
 
-1.1. Coletar dados
+  <h2>Fonte de dados:</h2>
+  <a href="https://www.kaggle.com/wenruliu/adult-income-dataset">Adult income</a>
 
-1.2. Realizar pré-processamento
-
-- Definição de tipos
-- Tratamento de dados ausentes
-- Normalização e discretização
-- Limpeza de dados (univariado e bivariado)
-
-1.3. Apresentar estatísticas descritivas dos dados com visualizações
-
-2. Fonte de dados:
-
-https://www.kaggle.com/wenruliu/adult-income-dataset
-
+  <h2>Colab </h2>
+</body>
+</html>
