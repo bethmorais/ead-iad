@@ -1,11 +1,11 @@
-# ead-iad
+# aed-iad
 <html>
 <head>
 </head>
 <body>
   <h2>Curso</h2>
   <ul>
-    <li>EAD - Engenharia e Análise de Dados</li>
+    <li>AED - Análise e Engenharia de Dados, <a href="https://www.cesar.school/especializacao-em-analise-e-engenharia-de-dados/" target="_blank">CESAR School</a></li>
   </ul>
   <h2>Disciplina</h2>
   <ul>
@@ -13,7 +13,7 @@
   </ul>
   <h2>Professor</h2>
   <ul>
-    <li>Luciano Barbosa</li>
+    <li><a href="https://www.cin.ufpe.br/~luciano/index.html" target ="_blank">Luciano de Andrade Barbosa</a>, <a href="https://www3.cin.ufpe.br/br/pessoas/professores/pag/9" target ="_blank">Centro de Informática/UFPE</a></li>
   </ul>
 
   <h2>Equipe:</h2>
