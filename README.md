@@ -43,7 +43,7 @@
   <p>
   Os dados analisados referem-se a uma pesquisa realizada com pessoas adultas dos Estados Unidos e México, 
   que coletou dados como salário anual, tipo de conrato de trabalho, horas trabalhadas por semana, escolaridade, 
-  gênero, idade, e capacidade de investimento por meio do ganho e perda de capital.
+  gênero, idade, bem como possível renda-extra, por meio do ganho e perda de capital.
   </p>
   <p>
   O objetivo desse trabalho é avaliar os dados e verificar quais dessas variáveis contribuem para o aumento da 
