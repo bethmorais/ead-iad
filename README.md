@@ -42,7 +42,7 @@
   </p>
   <p>
   Os dados analisados referem-se a uma pesquisa realizada com pessoas adultas dos Estados Unidos e México, 
-  que coletou dados como salário anual, tipo de conrato de trabalho, horas trabalhadas por semana, escolaridade, 
+  que coletou dados como salário anual, tipo de contrato de trabalho, horas trabalhadas por semana, escolaridade, 
   gênero, idade, bem como possível renda-extra, por meio do ganho e perda de capital.
   </p>
   <p>
@@ -55,10 +55,15 @@
   
   <h2>Referências</h2>
   <ul>
-    <li>Alexandre Vianna, Michael Cruz, Luciano Barbosa e Kiev Gama. 
+    <li>
+      Alexandre Vianna, Michael Cruz, Luciano Barbosa e Kiev Gama. 
       <a href="https://sol.sbc.org.br/index.php/wbci/article/view/3232" target="_blank">
       Análise do Impacto de Chuvas na Velocidade Média do Transporte Público Coletivo de Ônibus em Recife</a>. 
-      Workshop Brasileiro de Cidades Inteligentes (WBCI), 2018.</li>
+      Workshop Brasileiro de Cidades Inteligentes (WBCI), 2018.
+    </li>
+      <a href="https://github.com/ProfLuciano/intro_cd/">Ementa da Disciplina</a>
+    <li>
+    </li>
   </ul>
 </body>
 </html>
