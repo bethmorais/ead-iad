@@ -61,8 +61,8 @@
       Análise do Impacto de Chuvas na Velocidade Média do Transporte Público Coletivo de Ônibus em Recife</a>. 
       Workshop Brasileiro de Cidades Inteligentes (WBCI), 2018.
     </li>
-      <a href="https://github.com/ProfLuciano/intro_cd/">Ementa da Disciplina</a>
     <li>
+      <a href="https://github.com/ProfLuciano/intro_cd/">Ementa da Disciplina</a>
     </li>
   </ul>
 </body>
