@@ -29,8 +29,8 @@
     <ul>
       <li>Definição de tipos</li>
       <li>Tratamento de dados ausentes</li>
-      <li>Normalização e discretização</li>
       <li>Limpeza de dados (univariado e bivariado)</li>
+      <li>Normalização e discretização</li>
     </ul>
     <li>Apresentar estatísticas descritivas dos dados com visualizações</li>
   </ol>
