@@ -36,8 +36,10 @@
   </ol>
 
   <h2>Fonte de dados</h2>
-  <a href="https://www.kaggle.com/wenruliu/adult-income-dataset" target="_blank">Adult income</a>
   
+  <p>
+  <a href="https://www.kaggle.com/wenruliu/adult-income-dataset" target="_blank">Adult income</a>
+  </p>
   <p>
   Os dados analisados referem-se a uma pesquisa realizada com pessoas adultas dos Estados Unidos e México, 
   que coletou dados como salário anual, tipo de conrato de trabalho, horas trabalhadas por semana, escolaridade, 
