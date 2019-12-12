@@ -62,7 +62,7 @@
       Workshop Brasileiro de Cidades Inteligentes (WBCI), 2018.
     </li>
     <li>
-      <a href="https://github.com/ProfLuciano/intro_cd/">Ementa da Disciplina</a>
+      <a href="https://github.com/ProfLuciano/intro_cd/" target="_blank">Ementa da Disciplina</a>
     </li>
   </ul>
 </body>
