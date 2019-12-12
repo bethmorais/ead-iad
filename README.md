@@ -37,6 +37,16 @@
 
   <h2>Fonte de dados</h2>
   <a href="https://www.kaggle.com/wenruliu/adult-income-dataset" target="_blank">Adult income</a>
+  
+  <p>
+  Os dados analisados referem-se a uma pesquisa realizada com pessoas adultas dos Estados Unidos e México, 
+  que coletou dados como salário anual, tipo de conrato de trabalho, horas trabalhadas por semana, escolaridade, 
+  gênero, idade, e capacidade de investimento por meio do ganho e perda de capital.
+  </p>
+  <p>
+  O objetivo desse trabalho é avaliar os dados e verificar quais dessas variáveis contribuem para o aumento da 
+  capacidade de investimento e ganho de capital como renda extra.
+  </p>
 
   <h2>Google Colab</h2>
   <a href="https://colab.research.google.com/drive/1Vt1XAuam-CymAbKYAmi5uUiRvjJiMWrS" target="_blank">Notebook ead-iad-projeto</a>
